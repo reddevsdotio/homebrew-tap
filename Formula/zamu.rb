@@ -3,8 +3,8 @@
 class Zamu < Formula
   desc "Command-line client for Zamu, self-hosted project management for AI agents"
   homepage "https://github.com/reddevsdotio/zamu"
-  url "https://registry.npmjs.org/@reddevs/zamu/-/zamu-0.10.0.tgz"
-  sha256 "933cd1322fa3d7b8d71ecf0aefcd99135667fb81944ab49b40547b9fdbb717f4"
+  url "https://registry.npmjs.org/@reddevs/zamu/-/zamu-0.11.0.tgz"
+  sha256 "d66392d105ac2ecf8e6206681bbdeef3bd061ba5b1abadaacf2edafdf414af63"
   license "MIT"
 
   depends_on "node"
